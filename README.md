@@ -1,4 +1,4 @@
-# react-paginate
+# react-paginate-next
 
 [![NPM](https://travis-ci.com/sinnerJoe/react-paginate.svg?branch=master)](https://nodei.co/npm/react-paginate/)
 
