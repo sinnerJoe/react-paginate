@@ -3,8 +3,9 @@ node_js:
   - "12.13"
 test:
   - "npm test"
-deploy:
+prepublish:
   - "npm run prepublish"
+deploy:
   provider: npm
   email: "ianknote@gmail.com"
   api_key: "YOUR_AUTH_TOKEN"
