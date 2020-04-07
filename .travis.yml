@@ -1,11 +1,21 @@
 language: node_js
+
 node_js:
-  - "12.13"
+  - '8'
+  - '10'
+  - '12'
+
+cache:
+  directories:
+    - node_modules
 test:
   - "npm test"
+
 prepublish:
   - "npm run prepublish"
+
 deploy:
+  skip_cleanup: true
   provider: npm
   email: "ianknote@gmail.com"
   api_key: $NPM_KEY
