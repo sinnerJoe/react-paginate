@@ -8,6 +8,6 @@ prepublish:
 deploy:
   provider: npm
   email: "ianknote@gmail.com"
-  api_key: "YOUR_AUTH_TOKEN"
+  api_key: "NPM_KEY"
   on:
     branch: master
