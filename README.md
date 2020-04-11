@@ -60,7 +60,7 @@ $ make serve
 
 Open your browser and go to [http://localhost:3000/](http://localhost:3000/)
 
-<img src="https://cloud.githubusercontent.com/assets/2084833/24840241/7c95b7b2-1d1e-11e7-97e3-83b9c7a1f832.gif" alt="Pagination demo" />
+<img src="https://user-images.githubusercontent.com/16450547/78500766-15d47680-7761-11ea-8501-7186d293eede.gif" alt="Pagination demo" />
 
 ## Props
 
@@ -94,7 +94,7 @@ Open your browser and go to [http://localhost:3000/](http://localhost:3000/)
 
 ## Contribute
 
-1. [Submit an issue](https://github.com/AdeleD/react-paginate/issues)
+1. [Submit an issue](https://github.com/sinnerJoe/react-paginate/issues)
 2. Fork the repository
 3. Create a dedicated branch (never ever work in `master`)
 4. The first time, run command: `webpack` into the directory
@@ -108,4 +108,4 @@ Run tests:
 $ make test
 ```
 
-[1]: https://github.com/AdeleD/react-paginate/blob/master/demo/js/demo.js
+[1]: https://github.com/sinnerJoe/react-paginate/blob/master/demo/js/demo.js

@@ -1,3 +1,14 @@
+## >= 7.0.1
+
+- Edit HISTORY.md
+- Edit README.md
+
+## >= 7.0.0
+
+- Optimize the loop for rendering pagination buttons, which could cause a big overhead for large
+values of the pageCount prop.
+- Fix the inconsistent number of pages when the selected page is on the right end.
+
 ## >= 6.3.2
 
 - Bump dependency 'mixin-deep' from 1.3.1 to 1.3.2 (see: https://github.com/AdeleD/react-paginate/pull/283).
