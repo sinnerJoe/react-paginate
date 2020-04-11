@@ -1,6 +1,5 @@
 # react-paginate-next
-
-[![NPM](https://travis-ci.com/sinnerJoe/react-paginate.svg?branch=master)](https://nodei.co/npm/react-paginate/)
+[![NPM](https://nodei.co/npm/react-paginate-next.png?downloads=true)](https://nodei.co/npm/react-paginate-next/)
 
 This is a fork of [react-paginate](https://github.com/AdeleD/react-paginate) which doesn't seem to be supported anymore.
 
