@@ -18,13 +18,13 @@ or
 Install `react-paginate` with [npm](https://www.npmjs.com/):
 
 ```
-$ npm install react-paginate --save
+$ npm install react-paginate-next --save
 ```
 
 For [CommonJS](http://wiki.commonjs.org/wiki/CommonJS) users:
 
 ```javascript
-import ReactPaginate from 'react-paginate';
+import ReactPaginate from 'react-paginate-next';
 ```
 
 Read the code of [demo/js/demo.js][1]. You will quickly understand
@@ -35,7 +35,7 @@ how to make `react-paginate` work with a list of objects.
 Clone the repository and move into:
 
 ```console
-$ git clone git@github.com:AdeleD/react-paginate.git
+$ git clone git@github.com:sinnerJoe/react-paginate.git
 $ cd react-paginate
 ```
 

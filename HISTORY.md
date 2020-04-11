@@ -1,3 +1,8 @@
+## >= 7.0.3
+
+- Add npm tags
+- Edit README.md, replace the old package name with the new one
+
 ## >= 7.0.2
 
 - Edit HISTORY.md

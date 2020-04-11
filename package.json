@@ -1,6 +1,6 @@
 {
   "name": "react-paginate-next",
-  "version": "7.0.2",
+  "version": "7.0.3",
   "description": "A ReactJS component that creates a pagination.",
   "main": "./dist/index.js",
   "repository": {
@@ -8,6 +8,7 @@
     "url": "https://github.com/sinnerJoe/react-paginate"
   },
   "keywords": [
+    "react",
     "react-component",
     "paginate",
     "paginator",
