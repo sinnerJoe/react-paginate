@@ -1,3 +1,7 @@
+## >= 7.0.4
+
+- Edit README.md, rebranding
+
 ## >= 7.0.3
 
 - Add npm tags

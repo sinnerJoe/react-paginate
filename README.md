@@ -15,9 +15,9 @@ or
 
 ## Installation
 
-Install `react-paginate` with [npm](https://www.npmjs.com/):
+Install `react-paginate-next` with [npm](https://www.npmjs.com/):
 
-```
+```console
 $ npm install react-paginate-next --save
 ```
 
