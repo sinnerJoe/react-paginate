@@ -1,4 +1,4 @@
-## >= 7.0.1
+## >= 7.0.2
 
 - Edit HISTORY.md
 - Edit README.md
